@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@hop.ag/sdk": "^3.3.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "ed25519": "^0.0.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ed25519": "^0.0.3",
+    "@types/node": "^22.7.5",
+    "@types/ws": "^8.5.12"
+  }
+}
